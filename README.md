@@ -1,6 +1,6 @@
 # AgonFrogger
 
-A "Frogger" game clone written in *BBC BASIC* for *Agon Light*.
+A "Frogger" game written in *BBC BASIC* for *Agon Light*.
 
 
 
